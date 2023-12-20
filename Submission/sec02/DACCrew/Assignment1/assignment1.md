@@ -28,21 +28,22 @@ The system is applying a sequential search technique to search for the data. Dat
     <li>Input: User provides the Account Number to search for.</li>
     <li>liAlgorithm:
       <ol>
-        <li>User input name.</li>
-        <li>Compare the input name with attribute ‘accName’ for each object.</li>
+        <li>Users input an account number.</li>
+        <li>System iterates through the array of ‘Bank’ objects starting from index 0.</li>
+        <li>Compare the input account number with attribute ‘accNum’ for each object.</li>
         <li>If a match is found, the information will be displayed for that specific ‘Bank’ object.</li>
         <li>The searching will continue until the end of the array.</li>
         <li>If no matching attribute is found, the system will display the error message.</li>
       </ol>
     </li>
   </ul>
-   <li>Searching By Name (searchByName):</li>
+   <li>Searching By IC (searchByIc):</li>
   <ul>
-    <li>Input: User provides the Name to search for.</li>
-    <liAlgorithm:>
+    <li>Input: User provides the IC number to search for..</li>
+    <li>Algorithm:
       <ol>
-        <li>User input name.</li>
-        <li>Compare the input name with attribute ‘accName’ for each object.</li>
+        <li>System iterates through the array of ‘Bank’ objects starting from index 0.</li>
+        <li>Compare the input account number with attribute ‘ic’ for each object.</li>
         <li>If a match is found, the information will be displayed for that specific ‘Bank’ object.</li>
         <li>The searching will continue until the end of the array.</li>
         <li>If no matching attribute is found, the system will display the error message.</li>
@@ -50,30 +51,4 @@ The system is applying a sequential search technique to search for the data. Dat
     </li>
   </ul>
 </ol>
-
-
-
-
-
-
-
-
-Algorithm:
-Users input an account number.
-System iterates through the array of ‘Bank’ objects starting from index 0.
-Compare the input account number with attribute ‘accNum’ for each object.
-If a match is found, the information will be displayed for that specific ‘Bank’ object.
-The searching will continue until the end of the array.
-If no matching attribute is found, the system will display the error message.
-
-Searching By IC (searchByIc):
-Input: User provides the IC number to search for.
-Algorithm:
-Users input an IC number.
-System iterates through the array of ‘Bank’ objects starting from index 0.
-Compare the input account number with attribute ‘ic’ for each object.
-If a match is found, the information will be displayed for that specific ‘Bank’ object.
-The searching will continue until the end of the array.
-If no matching attribute is found, the system will display the error message.
-
 
