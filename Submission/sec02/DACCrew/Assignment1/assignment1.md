@@ -26,7 +26,7 @@ The system is applying a sequential search technique to search for the data. Dat
    <li>Searching By Account Number (searchByAccNum)::</li>
   <ul>
     <li>Input: User provides the Account Number to search for.</li>
-    <li>liAlgorithm:
+    <li>Algorithm:
       <ol>
         <li>Users input an account number.</li>
         <li>System iterates through the array of ‘Bank’ objects starting from index 0.</li>
