@@ -1,11 +1,23 @@
+## PART 1 : INTRODUCTION ##
+### 1.1 Objectives ###
+### 1.2 Synopsis ###
+
 ## PART 2 : SYSTEM DESIGN ##
+
 ### 2.1 System Class Design (Class Diagram) ###
+### 2.2 System Algorithm Design (Pseudo Code/FlowChart) ###
+
+
+
 
 <p align="center">
 <img title="Class Diagrame" src="../Images/classdiagram.png">
 <br>
 Figure 1: Class Diagram for Bank Entity</p>
 
+### 2.3 Data Structure Operation ###
+
+#### 2.3.1 Sorting Process (quicksort) ####
 
 #### 2.3.2 Searching Process (sequential search) ####
 The system is applying a sequential search technique to search for the data. Data can be searched through the attribute. If the data exists, the whole piece of details will be returned as the output after the searching process is performed. In this process, users can search for their intended data by Name, Account Number and IC Number. Therefore, there exists three search functions for each attribute.
