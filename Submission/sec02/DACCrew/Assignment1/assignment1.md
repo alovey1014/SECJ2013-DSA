@@ -3,5 +3,6 @@
 
 <p align="center">
 <img title="Class Diagrame" src="../Images/classdiagram.png">
+<br>
 Figure 1: Class Diagram for Bank Entity</p>
 
